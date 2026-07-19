@@ -26,7 +26,8 @@ Both commands should print version numbers.
 
 ## Git
 
-Install Git.
+Install Git. 
+https://git-scm.com/install/
 
 Check it with:
 
@@ -39,6 +40,7 @@ git --version
 ## Visual Studio Code
 
 Install VS Code.
+https://code.visualstudio.com/download?_exp_download=fb315fc982
 
 Recommended extensions:
 
