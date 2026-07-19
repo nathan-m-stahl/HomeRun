@@ -11,6 +11,7 @@ Before opening the project, install the following:
 ## Node.js
 
 Install the LTS version of Node.js.
+https://nodejs.org/en
 
 After installing, check it in your terminal:
 
