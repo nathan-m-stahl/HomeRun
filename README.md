@@ -29,6 +29,9 @@ Both commands should print version numbers.
 Install Git. 
 https://git-scm.com/install/
 
+user.email: HomeRunYardCarellc@gmail.com
+user.name: HomeRun
+
 Check it with:
 
 ```bash
