@@ -74,13 +74,13 @@ cd Desktop
 Clone the repo:
 
 ```bash
-git clone REPLACE_WITH_REPO_LINK
+git clone https://github.com/nathan-m-stahl/HomeRun.git
 ```
 
 Go into the project folder:
 
 ```bash
-cd REPLACE_WITH_PROJECT_FOLDER_NAME
+cd HomeRun
 ```
 
 Open it in VS Code:
